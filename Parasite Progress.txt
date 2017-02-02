@@ -1,0 +1,3 @@
+Parasite Progress
+
+* Met with alex and discussed possible options for project. Decided to start tracking through github
