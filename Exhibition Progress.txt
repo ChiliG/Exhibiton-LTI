@@ -1,0 +1,9 @@
+Exhibition Progress
+
+* Met with alex and discussed possible options for project. Decided to start tracking through github.*
+
+*Exhibiton project has been scrapped. We are now just doing the LTI. I will likely seperate my LTI away from my exhibition topic and focus on using github to manage projects for the LTI. This repo will stay dedicated to exhibition progress.*
+
+*Met with alex and discussed the seperation of LTi and exhibition. Discussed using github for LTI. After this push this repo will just be exhibition progress. I may create another repo for LTI progress or just merge the 2 later. I will set a time line using issues to track the completion of the exhibition on this repo.*
+
+*I have discussed this past week the new exhibition status with jill and alex. The exhibition is now just the research paper and the panel presentation. This repo will now hold exhibition AND LTI progress. This .txt file will have exhibition updates, the other .txt file will hold LTI updates. The exhibition issues progress will have 2 milestones, one for paper progress and another called "visual aid" that will track the panel and presentation.*
