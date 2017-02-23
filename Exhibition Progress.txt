@@ -9,3 +9,5 @@ Exhibition Progress
 *I have discussed this past week the new exhibition status with jill and alex. The exhibition is now just the research paper and the panel presentation. This repo will now hold exhibition AND LTI progress. This .txt file will have exhibition updates, the other .txt file will hold LTI updates. The exhibition issues progress will have 2 milestones, one for paper progress and another called "Exhibition Presentation" that will track the panel and presentation.* 2/14/17
 
 *Met with Jill yesterday and got paper outline approved. It will cover the general info, 3 specific parasites, prevention, and treatment. I need to do a little more research to fill in the holes, but after research is found for all of the outline it only gets easier.* 2/16/17
+
+*Closed the "Check Outline" issue since it was approved last week by Jill. Next is finishing the research outline and works cited. I am updating this because I was supposed to finish these issues this past weekend, but I was down from the eye surgery. I hope to complete issues up until the first draft this weekend, at the very least finishing the works cited/research outline.* 2/23/17
